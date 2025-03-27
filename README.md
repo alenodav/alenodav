@@ -1,16 +1,16 @@
 <h1>Hi 👋, I'm David Gómez</h1>
-<h3>A System Engineering Student who likes coding and machine learning.</h3>
+<h3>A System Engineering Student who likes coding and Machine Learning.</h3>
 
 - 🌱 I’m currently learning **OS, Computer Architecture, Maths, Backend Engineering and Machine Learning/AI**
 
-- 👯 I’m looking to collaborate on **Operating System project for University (UTN FRBA)**
+- 👯 I’m currently working on **Operating System project for University (UTN FRBA)**
 
 - 📫 How to reach me **davidalejandrogomez2002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Check my youtube and Linkedin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-alejandro-gomez-ferreira-a72b9b1a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-alejandro-gomez-ferreira-a72b9b1a8/" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/alenodav](https://www.youtube.com/@alenodav)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alenodav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-alejandro-gomez-ferreira-a72b9b1a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-alejandro-gomez-ferreira-a72b9b1a8/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@alenodav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alenodav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
