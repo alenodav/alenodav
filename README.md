@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm David Gómez</h1>
+<h2>Hey, I'm David!</h2>
 <h3>A System Engineering Student who likes coding and Machine Learning.</h3>
 
 - 🌱 I’m currently learning **OS, Computer Architecture, Maths, Backend Engineering and Machine Learning/AI**
