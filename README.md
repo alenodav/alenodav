@@ -5,7 +5,7 @@
 
 - 👯 I’m currently working on **Operating System project for University (UTN FRBA)**
 
-- 📫 How to reach me **davidalejandrogomez2002@gmail.com**
+- 📫 How to reach me **dgomezfe@frba.utn.edu.ar**
 
 <h3 align="left">Check my youtube and Linkedin:</h3>
 <p align="left">
