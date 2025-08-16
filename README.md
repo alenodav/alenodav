@@ -1,10 +1,7 @@
 <h2>Hey, I'm David!</h2>
-<h3>A System Engineering Student who likes coding and Machine Learning.</h3>
+<h3>A Systems Engineering Student who likes coding and Machine Learning.</h3>
 
-- 🌱 I’m currently learning **OS, Computer Architecture, Maths, Backend Engineering and Machine Learning/AI**
-
-- 👯 I’m currently working on **Operating System project for University (UTN FRBA)**
-
+- I’m currently learning **OS, Computer Architecture, Maths, Backend Engineering and Machine Learning/AI**
 - 📫 How to reach me **dgomezfe@frba.utn.edu.ar**
 
 <h3 align="left">Check my youtube and Linkedin:</h3>
