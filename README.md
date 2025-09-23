@@ -13,9 +13,7 @@ I started programming in school at 13 with Pascal. I liked it and I wasn’t bad
 
 Later, I went to university and chose the Computer Science career, which I truly enjoy.  
 
-Of course, I also have passions outside of technology: music and sports. I just love moving, competing, and giving everything on the court. Tennis, football, basketball—you name it, and I’ll give my all.  
-
-I don’t come from a wealthy family, nor do I live in the best neighborhood. Everything I’ve learned comes from ambition and passion the desire to build the life I know I deserve. Right now, I’m on that journey. Maybe by the time you read this, I’ll have achieved it. Maybe not. But the important thing is: I *will* get there.  
+Of course, I also have passions outside of technology: music and sports. I just love moving, competing, and giving everything on the court. Tennis, football, basketball—you name it, and I’ll give my all.   
 
 So, to summarize… yes, I’m a complete nerd haha. 
 
