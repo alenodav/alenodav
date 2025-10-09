@@ -15,25 +15,9 @@ Later, I went to university and chose the Computer Science career, which I truly
 
 Of course, I also have passions outside of technology: music and sports. I just love moving, competing, and giving everything on the court. Tennis, football, basketball—you name it, and I’ll give my all.   
 
-So, to summarize… yes, I’m a complete nerd haha. 
+So, to summarize… yes, I’m a complete nerd haha.   
 
-<h3>Rules i live by every day</h3>
-Last but not least, throughout my life I’ve talked to many people, many of them smarter than me, and I’ve learned valuable lessons that I live by every day. I want to share them with you:  
-
-1. Do the work. That’s it. Just do it.  
-2. If you truly love what you’re doing, you won’t even notice the time passing. That’s when you know your work is good.  
-3. Discipline is the only thing that will take you where you want to be.  
-4. Talk to people. Be curious. Staying too introspective won’t get you far.  
-5. Make yourself easy to find. You have value, make it count.  
-6. Improve 1% every day. That’s the real magic.  
-7. Do the hard work. Anyone can do the easy stuff.  
-8. Train hard and save your money.  
-9. Think about compound interest—not only with money. The rest is history.
-10. My favourite: be CREATIVE.
-
-And that’s all you need to know about me… I think.  
-
-I also have some projects and exercises that I’m proud of. They reflect what I’ve learned so far, so if you’re curious, check them out below.  
+I also have some projects that I’m proud of. They reflect what I’ve learned so far, so if you’re curious, check them out below.  
 
 Thanks, David  </h7> 
 
